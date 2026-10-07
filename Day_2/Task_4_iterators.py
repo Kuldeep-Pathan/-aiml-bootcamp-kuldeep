@@ -43,7 +43,7 @@ for x in [1, 2, 3]:
 '''  Run both. Confirm identical output.
 Answer:-Yes. Run both versions. They produce identical output
 Observation: The while True version using iter(), next(), try/except,
-             and break works the same as the for loop. '''
+            and break works the same as the for loop. '''
 
 
 '''1. What exception does a finished iterator raise?
