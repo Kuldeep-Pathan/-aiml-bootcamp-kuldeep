@@ -1,0 +1,5 @@
+Model,Mean CV R²,CV Std,Final Test R²
+Baseline,-0.002,0.002,
+Linear Regression,0.84,0.011,
+Ridge,0.84,0.011,
+Lasso,0.84,0.011,0.838
